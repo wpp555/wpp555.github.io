@@ -1,0 +1,17 @@
+{
+    "githubUsername": "wpp555",
+    "blogTitle": "wpp",
+    "blogDescribe": "欢迎来到培培的个人博客。",
+    "htmlTitle": "培培的博客",
+    "fontColor": "#ffffff",
+    "useBackgroundImage": false,
+    "backgroundColorLeft": "#2690F9",
+    "backgroundColorRight": "#FC2D2D",
+    "audioUrl": "http://sc1.111ttt.cn:8282/2018/1/03m/13/396131232171.m4a?tflag=1519095601&pin=6cd414115fdb9a950d827487b16b5f97#.mp3",
+    "mini": false,
+    "webSites":[
+        {"name":"前端网" , "url":"https://www.qdfuns.com"},
+        {"name":"掘金网" , "url":"https://juejin.im"},
+        {"name":"百度一下" , "url":"https://www.baidu.com"}
+    ]
+}
